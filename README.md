@@ -1,6 +1,6 @@
 # Hi there 👋  
 
-I’m **[Your Name]**, a technology enthusiast passionate about **Artificial Intelligence, Automation, and Robotics**.  
+I’m **Sohel Kumar**, a technology enthusiast passionate about **Artificial Intelligence, Automation, and Robotics**.  
 I love building intelligent systems that bridge theory with real-world applications, always driven by curiosity and innovation.  
 
 ---
@@ -21,10 +21,10 @@ I love building intelligent systems that bridge theory with real-world applicati
 ---
 
 ## 🔹 Skills & Tools  
-- **Languages**: Python, JavaScript, C++  
-- **ML/AI**: Scikit-learn, TensorFlow, PyTorch  
+- **Languages**: Python, C
+- **ML/AI**: Scikit-learn, TensorFlow, PyTorch, Langchain
 - **Automation**: Flask, FastAPI, RPA tools  
-- **Other**: Git, Docker, Cloud platforms  
+- **Other**: Git, Cloud platforms, SQL
 
 ---
 
