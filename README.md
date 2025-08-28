@@ -35,5 +35,14 @@ I love building intelligent systems that bridge theory with real-world applicati
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumarsohel22&show_icons=true&theme=tokyonight)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kumarsohel22&theme=tokyonight&hide_border=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarsohel22&layout=compact&theme=tokyonight)
+
+
 
 ✨ *Curiosity fuels my code. Innovation shapes my projects. The future is my playground.*  
