@@ -35,11 +35,5 @@ I love building intelligent systems that bridge theory with real-world applicati
 
 ---
 
-## 🔹 Let’s Connect  
-🌐 [Portfolio/Website link]  
-💼 [LinkedIn link]  
-📧 [Your Email]  
-
----
 
 ✨ *Curiosity fuels my code. Innovation shapes my projects. The future is my playground.*  
